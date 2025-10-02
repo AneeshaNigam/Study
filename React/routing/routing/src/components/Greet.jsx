@@ -1,4 +1,5 @@
-function Greet(){
-    return <><h1>Helloo</h1></>
+function Greet() {
+  return <h3>Hello! Welcome!</h3>;
 }
+
 export default Greet;
